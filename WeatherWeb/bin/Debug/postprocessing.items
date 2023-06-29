@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="WeatherWeb.app/Contents/MacOS/WeatherWeb">
+      <BCSymbolMapName>WeatherWeb.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>WeatherWeb.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/patryckchipman/Projects/WeatherWeb/WeatherWeb/obj/Debug/mtouch-symbols.list</SymbolFile>
+      <DSymName>WeatherWeb.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/patryckchipman/Projects/WeatherWeb/WeatherWeb</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>

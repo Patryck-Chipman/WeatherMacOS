@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.apple.ibtool.document.errors</key>
+	<dict/>
+	<key>com.apple.ibtool.document.notices</key>
+	<dict>
+		<key>5MX-tf-rjH</key>
+		<array>
+			<dict>
+				<key>affected-objects</key>
+				<array>
+					<string>5MX-tf-rjH</string>
+				</array>
+				<key>message</key>
+				<string>NSTextField's height does not match its intrinsic content size, use "Size to Fit Content" to correct</string>
+				<key>type</key>
+				<string>IBIssueTypeIntrinsicSizeMismatch</string>
+				<key>type-value</key>
+				<integer>22</integer>
+			</dict>
+		</array>
+		<key>7EX-OC-gk0</key>
+		<array>
+			<dict>
+				<key>affected-objects</key>
+				<array>
+					<string>7EX-OC-gk0</string>
+				</array>
+				<key>message</key>
+				<string>NSTextField's height does not match its intrinsic content size, use "Size to Fit Content" to correct</string>
+				<key>type</key>
+				<string>IBIssueTypeIntrinsicSizeMismatch</string>
+				<key>type-value</key>
+				<integer>22</integer>
+			</dict>
+		</array>
+		<key>9rI-Ld-xlj</key>
+		<array>
+			<dict>
+				<key>affected-objects</key>
+				<array>
+					<string>9rI-Ld-xlj</string>
+				</array>
+				<key>message</key>
+				<string>NSTextField's height does not match its intrinsic content size, use "Size to Fit Content" to correct</string>
+				<key>type</key>
+				<string>IBIssueTypeIntrinsicSizeMismatch</string>
+				<key>type-value</key>
+				<integer>22</integer>
+			</dict>
+		</array>
+		<key>a5F-Th-o1a</key>
+		<array>
+			<dict>
+				<key>affected-objects</key>
+				<array>
+					<string>a5F-Th-o1a</string>
+				</array>
+				<key>message</key>
+				<string>NSTextField's height does not match its intrinsic content size, use "Size to Fit Content" to correct</string>
+				<key>type</key>
+				<string>IBIssueTypeIntrinsicSizeMismatch</string>
+				<key>type-value</key>
+				<integer>22</integer>
+			</dict>
+		</array>
+		<key>xPS-X0-iUU</key>
+		<array>
+			<dict>
+				<key>affected-objects</key>
+				<array>
+					<string>xPS-X0-iUU</string>
+				</array>
+				<key>message</key>
+				<string>NSTextField's height does not match its intrinsic content size, use "Size to Fit Content" to correct</string>
+				<key>type</key>
+				<string>IBIssueTypeIntrinsicSizeMismatch</string>
+				<key>type-value</key>
+				<integer>22</integer>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.ibtool.document.warnings</key>
+	<dict/>
+</dict>
+</plist>
